@@ -1,0 +1,20 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+build/
+target/
+bin/
+
+# Tomcat / server files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Never commit real DB credentials if you externalize them later
+# (currently DBConnection.java has them inline, consider moving
+# to a config file excluded from git before final submission)
