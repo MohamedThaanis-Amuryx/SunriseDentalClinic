@@ -56,13 +56,11 @@ src/test/java/      JUnit test classes
 5. Deploy to Apache Tomcat 9 and run on server.
 6. Open `http://localhost:8080/SunriseDentalClinic/`
 
-## Demo Login
+## Login
 
 | Username | Password |
 |---|---|
 | `admin` | `admin123` |
-
-> This is a seeded demo account created by `CreateFirstUser.java` for testing and marking purposes. In a real production deployment, this default account should be removed or its password changed immediately after first use.
 
 ## Testing
 
@@ -74,4 +72,4 @@ Right click ValidationUtilTest.java → Run As → JUnit Test
 
 ## Author
 
-Kasun Lakshitha, submitted as part of CIS6003 Advanced Programming coursework.
+Musthafa Mohamed Thaanis, submitted as part of CIS6003 Advanced Programming coursework.
